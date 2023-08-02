@@ -1,0 +1,13 @@
+           ******** LISTA DE LA COMPRA ********
+Mercadona (Aperitivos) | Pipas | Cantidad: 2
+Mercadona (Charcutería) | Longaniza | Cantidad: 1
+Mercadona (Chocolates) | Conguitos | Cantidad: 1
+Mercadona (Frío) | Hummus | Cantidad: 2
+Mercadona (Frio) | Queso en loncha | Cantidad: 2
+Mercadona (Frío) | Pechuga de pavo | Cantidad: 2
+Mercadona (Frutería) | Aguacates | Cantidad: 4
+Mercadona (Frutería) | Tomates | Cantidad: 250
+Mercadona (Limpieza) | Lejía | Cantidad: 1
+Mercadona (Mascotas) | Arena de gato | Cantidad: 1
+Mercadona (Panadería) | Picos | Cantidad: 5
+Mercadona (Salsas) | Mayonesa | Cantidad: 1
