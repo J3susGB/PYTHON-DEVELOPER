@@ -7,19 +7,19 @@
 
 ### **`Información del proyecto:`**
 
-#### Se trata de un ejercicio en el que pongo en práctica lo aprendido en cuanto a la conexión de Python con Mysql, y la Programación Orientada a Objetos, implementandolo todo con Tkinter, lo que me ha permitido crear un simple programa de escritorio de uso local. Trabajo con Php MyAdmin, y ahí se crea inicialmente la estructura de la base de datos, y una vez hecho esto, utilizando el programa creado, se va rellenando.
+#### Se trata de un ejercicio en el que pongo en práctica lo aprendido en cuanto a la conexión de Python con Mysql y la Programación Orientada a Objetos, implementandolo todo con Tkinter, lo que me ha permitido crear un simple programa de escritorio de uso local. Trabajo con Php MyAdmin, y ahí se crea inicialmente la estructura de la base de datos, y una vez hecho esto, utilizando el programa creado, se va rellenando.
 
 #### La base de datos está formada por las siguientes columnas:
 
-                Supermercado    Seccion     Codigo      Producto        Cantidad
+        Supermercado    Seccion     Codigo      Producto        Cantidad
 
 #### El programa permite añadir productos, listar todos los productos, modificarlos, eliminarlos y enviar la lista de la compra en un documento pdf por correo electrónico.
 
 ### Al ejecutar el programa, se abre una ventana dividida en tres secciones:
 
-                - Sección de eventos: Aquí aparecen los botones principales que permiten añadir, modificar y eliminar productos de la lista, y también un botón de enviar, que al pulsarlo, transforma los datos  de la lista en un documento txt, este documentos txt lo transforma a pdf, y finalmente, lo envía por correo electrónico.
-                - Sección de datos: En esta sección, aparecen unas cajas de texto en las que vamos poniendo los datos del producto que se quiere añadir o modificar. También aparecen los botones Guardar y Cancelar, que guarda los cambios o se cancela, respectivamente.
-                - Sección Grid: En esta sección, se visualizan todos los productos que se han ido añadiendo, y se va actualizando sobre la marcha conforme se añaden, modifican o eliminan productos
+        - Sección de eventos: Aquí aparecen los botones principales que permiten añadir, modificar y eliminar productos de la lista, y también un botón de enviar, que al pulsarlo, transforma los datos  de la lista en un documento txt, este documentos txt lo transforma a pdf, y finalmente, lo envía por correo electrónico.
+        - Sección de datos: En esta sección, aparecen unas cajas de texto en las que vamos poniendo los datos del producto que se quiere añadir o modificar. También aparecen los botones Guardar y Cancelar, que guarda los cambios o se cancela, respectivamente.
+        - Sección Grid: En esta sección, se visualizan todos los productos que se han ido añadiendo, y se va actualizando sobre la marcha conforme se añaden, modifican o eliminan productos
 
 #### El proyecto está estructurado en tres documentos:
 
