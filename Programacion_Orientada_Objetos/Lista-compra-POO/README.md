@@ -7,7 +7,7 @@
 
 ### **`Información del proyecto:`**
 
-#### Se trata de un ejercicio en el que pongo en práctica lo aprendido en cuanto a la conexión de Python con Mysql, y la Programación Orientada a Objetos. Trabajo con Php MyAdmind, y ahí se crea inicialmente la estructura de la base de datos, y una vez hecho esto, utilizando el programa creado, se va rellenando.
+#### Se trata de un ejercicio en el que pongo en práctica lo aprendido en cuanto a la conexión de Python con Mysql, y la Programación Orientada a Objetos. Trabajo con Php MyAdmin, y ahí se crea inicialmente la estructura de la base de datos, y una vez hecho esto, utilizando el programa creado, se va rellenando.
 
 #### El programa permite añadir productos, listar todos los productos, modificarlos, eliminarlos, crear un documento .txt  con la lista de la compra, transformar este documento en pdf, y finalmente, enviar el pdf por correo electrónico.
 ### Todo ello realizado con POO e interactuando con el usuario por consola.
@@ -21,13 +21,13 @@
       - Se importan los dos documentos restantes
       - Contiene el menú principal del programa, el cual consta de las siguientes opciones:
 
-                '1.- Añadir producto'
-                '2.- Listar productos'
-                '3.- Modificar producto'
-                '4.- Eliminar producto'
-                '5.- Crear documento de la lista'
-                '6.- Enviar documento por email'
-                '7.- Salir'
+                1.- Añadir producto
+                2.- Listar productos
+                3.- Modificar producto
+                4.- Eliminar producto
+                5.- Crear documento de la lista
+                6.- Enviar documento por email
+                7.- Salir
     
       
   - *Conection.py* --> Conexión con la base de datos
