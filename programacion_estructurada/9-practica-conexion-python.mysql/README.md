@@ -14,39 +14,19 @@
 #### El proyecto está estructurado en tres documentos:
 
 ### **`Práctica:`**
-  - [*master.py*] - Documento principal
-    <details>
-      <summary>Despliegue para ver el contenido del documento</summary>
-      - Documento principal
-      - En él, se importan los dos documentos restantes
+
+  - *master.py* --> Documento principal
+
+      - Se importan los dos documentos restantes
       - Contiene el menú principal del programa
-      </details>
+    
       
-  - [*Conexion.py*] - Conexión con la base de datos
-    <details>
-      <summary>Despliegue para ver el contenido del documento/summary>
+  - *Conexion.py* --> Conexión con la base de datos
+
       - Se implementa la conexión con la base de datos y se crean todas las funciones que permiten interactuar directamente con la base de datos.
-      </details>
-  - [*funciones.py*] - Resto de funciones
-    <details>
-      <summary>Despliegue para ver el contenido del documento</summary>
+
+  - *funciones.py* --> Funciones
+
       - Resto  de funciones necesarias conectadas directamente con las funciones que llevan las instrucciones sql para modificar la base de datos
 
-     </details>
-
-
-### *The Dream Team⚡*, el mejor equipo del Bootcamp:
-<a href="https://github.com/Nahuel-DevOne">
-  <img styles="rounded" width="60" src="img/Nahue.png" />
-</a>
-<a href="https://github.com/Nahuel-DevOne">
-  <img width="50" src="img/Quillo.jpg" />
-</a>
-<a href="https://github.com/Nahuel-DevOne">
-  <img width="43.5" src="img/Javi.jpg" />
-</a>
-<a href="https://github.com/Nahuel-DevOne">
-  <img width="43.5" src="img/Mariana.jpg" />
-</a>
-
-#### Hecho con el único objetivo de prácticar.
+#### Hecho con el único objetivo de practicar.
