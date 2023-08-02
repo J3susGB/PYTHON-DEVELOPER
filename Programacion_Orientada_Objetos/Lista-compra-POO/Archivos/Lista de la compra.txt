@@ -1,0 +1,7 @@
+           ******** LISTA DE LA COMPRA ********
+Carrefour (Mascotas) | Comida húmeda perro | Cantidad: 2
+Carrefour (Mascotas) | Comida húmeda gato | Cantidad: 4
+Carrefour (Panadería) | Picos | Cantidad: 4
+Mercadona (Carnicería) | Pechuga de pollo | Cantidad: 2
+Mercadona (Pescadería) | Sardinas | Cantidad: 500
+Mercadona (Pescadería) | Boquerones | Cantidad: 250
